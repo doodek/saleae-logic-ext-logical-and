@@ -1,0 +1,13 @@
+{
+  "name": "Logical AND (for RS485 Collision Detection)",
+  "apiVersion": "1.0.0",
+  "author": "doodek",
+  "version": "0.0.1",
+  "description": "",
+  "extensions": {
+    "p": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
